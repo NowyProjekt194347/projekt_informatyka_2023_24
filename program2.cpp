@@ -5,7 +5,8 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+	printf("imie");
+	printf("nazwisko");
 }
 
 // Uruchomienie programu: Ctrl + F5 lub menu Debugowanie > Uruchom bez debugowania
